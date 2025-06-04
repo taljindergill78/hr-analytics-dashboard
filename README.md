@@ -14,7 +14,7 @@ This dashboard was built to answer 14 HR-focused questions, including:
 - How does work-life balance, job involvement, and overtime affect retention?
 - Is there a gender pay gap that correlates with attrition?
 
-A full list of all 14 questions is documented in the [Reports](./reports/) folder.
+A full list of all 14 questions is documented in the [Reports](./Reports/) folder.
 
 ## 📊 Tools & Technologies
 - **Tableau Desktop** – Dashboard creation & visual analytics
@@ -25,12 +25,12 @@ A full list of all 14 questions is documented in the [Reports](./reports/) folde
 
 ## 📁 Project Structure
 ```hr-analytics-dashboard/
-├── data/
+├── Data/
 │ ├── HR_Analytics.csv
 │ └── Output.csv
-├── preprocess/
+├── Preprocess/
 │ └── Preprocess_Code.ipynb
-├── reports/
+├── Reports/
 │ ├── Project - Phase I_ Planning.docx
 │ ├── Project - Phase II_ Decision Making.docx
 │ └── Project - Phase III_ Dashboard Implementation.docx
